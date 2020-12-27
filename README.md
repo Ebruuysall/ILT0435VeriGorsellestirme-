@@ -1,5 +1,8 @@
 # Songs-Datasets
-Datasets for Hindi Songs for Dancing, Emotional, Happy and scenic view
+
+Songs List- 
+
+1. Datasets for Hindi Songs for Dancing, Emotional, Happy and scenic view
 
 Songs Datasets Comprise of Different Attributes as-
 1. SONGS ID
@@ -9,7 +12,12 @@ Songs Datasets Comprise of Different Attributes as-
 5. TIME FRAME 
 6. DURATION 
 7. SONG NUMBER
-8. Many more*
+8. Latitude
+9. Longitude
+10. Place 
+11. Artist Name
+12. Song year
+13. Many more*
 
 
 This DataSet is Limited to few Song List for Demo and Example. 
