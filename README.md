@@ -1,4 +1,4 @@
-# Hindi-Songs-Datasets
+# Songs-Datasets
 Datasets for Hindi Songs for Dancing, Emotional, Happy and scenic view
 
 Songs Datasets Comprise of Different Attributes as-
